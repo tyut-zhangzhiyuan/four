@@ -65,5 +65,5 @@ for(i=1;i<=n;i++)
 
 
 ### PSP表格
-![alt text](/path/to/four/PSP.png "Title")
+![alt text](/path/to/four/PSP.png "four/PSP.png)
 
