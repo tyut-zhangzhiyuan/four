@@ -65,5 +65,5 @@ for(i=1;i<=n;i++)
 
 
 ### PSP表格
-![alt text](/four/PSP.png "PSP.png")
+![alt text][https://github.com/tyut-zhangzhiyuan/four/blob/master/PSP.png] 
 
